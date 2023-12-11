@@ -1,3 +1,3 @@
-Username: david.hasselhoff%40example.com
+Username: david.hasselhoff@example.com
 
 Password: secretsecrets
